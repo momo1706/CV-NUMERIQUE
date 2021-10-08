@@ -1,0 +1,121 @@
+
+nav{
+    background-color: #011627;
+    width:550px ;
+    height:710px ;
+    margin-top: -8px;
+    margin-left: -9px;
+    border: solid #334553;
+    border-top: none;   
+
+}
+
+#barre{
+    background-color: #641d30;
+    width: 2px;
+    height:710px ;
+    margin-left: 100px;
+
+}
+
+ul{
+    font-family: 'Gemunu Libre', sans-serif;
+    margin-top: -550px;
+    padding-left: 150px;
+    list-style-type: none;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: 150px;
+    font-size: 40px;
+
+}
+
+section{   
+    margin-left: 545px;
+    margin-top: -713px;
+    width:960px ;
+    height:710px ;
+    background-color:#c3d2de;
+    border: solid #011627 ;
+
+}
+
+#carreau{
+    width: 900px;
+    height: 600px;
+    margin-top: 30px;
+    margin-left: 45px;
+    font-family: 'Gemunu Libre', sans-serif;
+    text-transform: uppercase;
+
+}
+
+a{
+    text-decoration: none;
+    color: #fff ;
+    
+}
+
+#titreun{
+   color: #ff0044;
+   font-size: 2em ;
+   margin-top: 4px;
+    
+}
+
+#titredeux{
+    color:#011627 ;
+    font-size: 66px;
+
+}
+
+#textesection{
+    margin-left: 100px;
+    height: 200px;
+    width: 300px;
+    margin-top: 100px;
+    margin-top: 100px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: space-between;
+ 
+}
+
+#petitebarre{
+    background-color:#ff0044 ;
+    width:50px;
+    height: 2px;
+
+}
+
+.fa-instagram-square{
+    font-size: 30px;
+    margin-left: 100px;
+
+}
+
+.fa-facebook-square{
+    font-size: 30px;
+    margin-left: 100px;
+
+}
+
+.fa-linkedin{
+    font-size: 30px;
+    margin-left: 100px;
+
+}
+
+.fa-caret-right{
+    font-size: 100px;
+    color:#011627 ;
+    margin-left: 540px;
+    margin-top: 575px;
+    display: flex;
+    position: absolute;
+    
+}
+/* ceci est un commentaire sur CSS*/
